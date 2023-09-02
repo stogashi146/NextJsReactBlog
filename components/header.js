@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <>
       <header>
-        <Logo />
+        <Logo boxOn />
         <Nav />
       </header>
     </>
