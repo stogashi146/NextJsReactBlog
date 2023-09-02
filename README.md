@@ -1,3 +1,10 @@
+## This
+
+作って学ぶ Next.js/React Web サイト構築
+https://github.com/ebisucom/next-react-website
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
